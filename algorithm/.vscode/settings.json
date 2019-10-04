@@ -1,0 +1,18 @@
+{
+    "python.formatting.provider": "yapf",
+    "cSpell.words": [
+        "FLANN",
+        "IMREAD",
+        "KDTREE",
+        "imdecode",
+        "imencode",
+        "imshow",
+        "numpy",
+        "pyplot",
+        "tobytes",
+        "tolist",
+        "uint",
+        "xfeatures"
+    ],
+    "python.pythonPath": "/Users/ninh/anaconda3/bin/python"
+}
